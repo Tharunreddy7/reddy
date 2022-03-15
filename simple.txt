@@ -1,1 +1,2 @@
-thse first line is added
+thse first line is added.
+this my second line in this file.
